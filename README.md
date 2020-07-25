@@ -18,7 +18,28 @@ Kill Bill: Vol. 1 (2003) - 720p   751.11 MB      203       27  magnet:?xt=urn:bt
 Kill Bill: Vol. 1 (2003) - 1080p  1.50 GB        468       48  magnet:?xt=urn:btih:A595417D99461679BA857D41C6D4C5CC4EEFAD76
 ```
 # Dependancies
-``python3```
+```python3```
 # Installation
 1. Clone the repo and switch to it
 2. run `pip3 install -r requirements.txt`
+# Usage
+```
+__  ____            ___ 
+\ \/ / /___________/ (_)
+ \  / __/ ___/ ___/ / / 
+ / / /_(__  ) /__/ / /  
+/_/\__/____/\___/_/_/   
+                        
+
+A yts torrent search CLI
+
+usage: ytscli.py [-h] [-v] query
+
+positional arguments:
+  query          the query string you are searching for
+
+optional arguments:
+  -h, --help     show this help message and exit
+  -v, --version  show program's version number and exit
+
+```
